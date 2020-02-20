@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1582206576 source:c:\users\pegamento\desktop\practica_3\punto.cpp
+	"Punto.h"
+	<iostream>
+
+1582206576 c:\users\pegamento\desktop\practica_3\punto.h
+
+1582206754 source:c:\users\pegamento\desktop\practica_3\main.cpp
+	<iostream>
+	"Pentagono.h"
+	"Punto.h"
+
+1582206768 c:\users\pegamento\desktop\practica_3\pentagono.h
+	"Punto.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
